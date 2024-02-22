@@ -1,0 +1,10 @@
+[package]
+name = "vkpog"
+version = "0.1.0"
+edition = "2021"
+
+[profile.dev]
+opt-level = 1 
+
+[dependencies]
+vulkano = "0.34.1"
