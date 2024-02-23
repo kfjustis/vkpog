@@ -4,3 +4,9 @@ Rust app using Vulkano to render a cool-color triangle based on 2D vertex positi
 
 # Output
 ![output.png](./output/output.png)
+
+# Running
+Make sure CMake is installed on your system and then run:
+```
+$ cargo run
+```
